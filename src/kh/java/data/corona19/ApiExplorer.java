@@ -78,7 +78,7 @@ public class ApiExplorer {
 			
 			
 			
-	// ArrayList ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+			// ArrayList ★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
 			
 			List<Corona19Info> volist = new ArrayList<Corona19Info>();
 			for(int i=0; i<list.getLength(); i++) {
