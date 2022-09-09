@@ -176,19 +176,22 @@ public class ApiExplorer {
 					
 					
 					
-					
-					
+							
 					
 					
 					
 					n = n.getNextSibling();
+					
+//					Node n = item.getFirstChild(); // deathCnt
+//					Node n2 = item.getNextSibling(); // defCnt (X) 아님
+//					Node n2 = n.getNextSibling(); // defCnt (O) 맞음
+//					Node n3 = n.getNextSibling(); // gubun (O)
+					
+					
+					
 				}
 				
 				
-//				Node n = item.getFirstChild(); // deathCnt
-//				Node n2 = item.getNextSibling(); // defCnt (X) 아님
-//				Node n2 = n.getNextSibling(); // defCnt (O) 맞음
-//				Node n3 = n.getNextSibling(); // gubun (O)
 				
 				
 				
