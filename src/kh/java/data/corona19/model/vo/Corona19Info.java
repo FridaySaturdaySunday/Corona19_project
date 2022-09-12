@@ -126,7 +126,6 @@ public class Corona19Info {
 	
 	
 	
-	
 }
 
 
